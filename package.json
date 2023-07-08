@@ -1,0 +1,23 @@
+{
+  "name": "trabajoenclases20230708",
+  "version": "1.0.0",
+  "description": "Primera conexión a base de datos desde NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isabel-de-la-Cuadra/trabajoEnClases20230708.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isabel-de-la-Cuadra/trabajoEnClases20230708/issues"
+  },
+  "homepage": "https://github.com/Isabel-de-la-Cuadra/trabajoEnClases20230708#readme",
+  "dependencies": {
+    "pg": "^8.11.1"
+  }
+}
